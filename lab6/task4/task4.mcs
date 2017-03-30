@@ -1,0 +1,266 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\pic24_clockfreq.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3a.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File001]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\pic24_serial.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3a.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File002]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\pic24_uart.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3a.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File003]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\pic24_util.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3a.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File004]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\task3b.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3b.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_timer.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File005]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\pic24_configbits.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3b.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_timer.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File006]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\pic24_timer.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3b.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_timer.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File007]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\task4.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File008]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\pic24_clockfreq.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File009]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\pic24_configbits.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File010]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\pic24_serial.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File011]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\pic24_timer.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File012]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\pic24_uart.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File013]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\pic24_util.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PK3=1
+[File014]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\task3a.cof
+Folder=Output
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3a.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_timer.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PK3=1 --defsym=__ICD2RAM=1
+[File015]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\task3a.hex
+Folder=Output
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3a.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_timer.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PK3=1 --defsym=__ICD2RAM=1
+[File016]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\task3b.cof
+Folder=Output
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3b.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_timer.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PK3=1 --defsym=__ICD2RAM=1
+[File017]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 3\task3b.hex
+Folder=Output
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c|task3b.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_timer.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PK3=1 --defsym=__ICD2RAM=1
+[File018]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\task4.cof
+Folder=Output
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PK3=1 --defsym=__ICD2RAM=1
+[File019]
+Location=C:\Users\Tortoise\Documents\School\ECE 383\Lab 6\Task 4\task4.hex
+Folder=Output
+DeviceName=PIC24HJ128GP502
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\microchip\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|task4.c|C:\microchip\lib\common\pic24_clockfreq.c|C:\microchip\lib\common\pic24_configbits.c|C:\microchip\lib\common\pic24_serial.c|C:\microchip\lib\common\pic24_timer.c|C:\microchip\lib\common\pic24_uart.c|C:\microchip\lib\common\pic24_util.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PK3=1 --defsym=__ICD2RAM=1
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\mplabc30\v3.30c\bin\pic30-ld.exe
