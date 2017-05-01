@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Users\Tortoise\Documents\School\ECE 383\Lab 9\Task 1\task1b (PCB - Pour Copper Report).txt
+Report Written:     Thursday, April 27, 2017
+Design Path:        C:\Users\Tortoise\Documents\School\ECE 383\Lab 9\Task 1\task1b.pcb
+Design Title:       
+Created:            4/27/2017 3:16:34 PM
+Last Saved:         4/27/2017 3:24:09 PM
+Editing Time:       9 min
+Units:              mm (precision 1)
+
+
+End Of Report.
